@@ -14,6 +14,7 @@ public class SumaEnteros {
 		for (int i = 0; i < valores.length; i++) {
 			suma += valores[i];
 		}
-		return suma;
 	}
 }
+
+//No he podido corregirlo.
